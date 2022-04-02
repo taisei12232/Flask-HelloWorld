@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# python
+.venv/
+__pycache__/
+
+# linter/formatter
+.tox/
+.mypy_cache/
+
+# editor
+.idea/
+.vscode/
+
+pyproject.toml
